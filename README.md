@@ -15,9 +15,9 @@ $ whoami
 $ stats.fetch --user jayanthoffl
 ```
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dthe_jayanthoffl%26theme%3Dchartreuse-dark%26hide_border%3Dtrue" alt="Streak Stats" /> </p>
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djayanthoffl%26theme%3Dchartreuse-dark%26hide_border%3Dtrue" alt="Streak Stats" /> </p>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dthe_jayanthoffl%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dthe_jayanthoffl%26layout%3Dcompact%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="Top Langs" /> </p>
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djayanthoffl%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dayanthoffl%26layout%3Dcompact%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="Top Langs" /> </p>
 
 
 $ cat ~/tech_stack.txt
