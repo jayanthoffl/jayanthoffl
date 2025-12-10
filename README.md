@@ -44,20 +44,6 @@ I am a **Computer Science undergraduate** at **SRM University AP** specializing 
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayanthoffl&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthoffl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jayanthoffl&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" alt="Streaks" />
-</div>
-
----
-
 ### 🚀 Featured Projects & Experience
 
 #### 🧬 **Research & Internships**
