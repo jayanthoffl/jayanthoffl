@@ -1,48 +1,68 @@
-<h1 align="center">
-  <code>Jayanth@github:~$ echo "Hello, World_👋"</code>
-</h1>
-<h3 align="center">AI Agent Architect ⚡ Quantum Computing Explorer ⚛️ MSC Lead</h3>
+<!-- Banner or Quote -->
+<h2 align="center">Hey there! I'm Jayanth 👋</h2>
+<p align="center">
+  <b>Quantum Computing | AI/ML | Python | MSC Lead</b><br>
+  Turning caffeine ➜ code, and curiosity ➜ projects ⚡
+</p>
 
-<br/>
+---
 
-```bash
-$ whoami
-> Jayanth — BTech CSE @ SRM University AP
-> Quantum Computing (Minor) | AI/ML Developer
-> Lead @ Microsoft Student Community, Amaravati
-> Research Intern @ Deakin University (TDA + Persistent Homology)
-> Building AI Agents, Automation Pipelines, and weird experiments
-$ stats.fetch --user jayanthoffl
-```
+## 🌌 About Me
+- 🎓 BTech CSE @ SRM University AP  
+- ⚛️ Quantum Computing minor (qubits are cooler than bits)  
+- 🤖 AI/ML Enthusiast — currently building an AI Mock Interview Bot  
+- 🛠 Lead @ Microsoft Student Community, Amaravati  
+- 🧪 Research Intern @ Deakin University — Topological Data Analysis  
+- 🛜 IoT workshop organizer | Hackathon planner  
+- ✈️ Future goal: Canada + Quantum/AI Research  
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djayanthoffl%26theme%3Dchartreuse-dark%26hide_border%3Dtrue" alt="Streak Stats" /> </p>
+---
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djayanthoffl%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dayanthoffl%26layout%3Dcompact%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="Top Langs" /> </p>
+## ⚡ Tech Stack  
+**Languages:** Python, C++, JavaScript, MATLAB  
+**AI/ML:** NumPy • Pandas • Scikit-learn • Neural Nets (Learning)  
+**Quantum:** Qiskit • Quantum Gates • QC basics  
+**Tools:** Git • GitHub • VS Code • Azure  
 
+---
 
-$ cat ~/tech_stack.txt
-🟩 Languages:   Python, C++, JavaScript, TypeScript
-🟩 AI/ML:       NumPy, Pandas, scikit-learn, Neural Nets
-🟩 Agents:      LangChain, Automation Pipelines, Retrieval (RAG)
-🟩 Quantum:     Qiskit, Quantum Gates, Circuits, Linear Algebra
-🟩 Tools:       Git, GitHub Actions, Azure, VS Code
-🟩 Research:    Topological Data Analysis (TDA), Persistent Homology
+## 🚀 What I'm Working On
+- Building an **AI Mock Interview Bot**
+- Researching **Persistent Homology & TDA**
+- Leading the development of **MSC Innovation Lab @ SRM AP**
+- Preparing for a **48-hour Hackathon (March 2025)**  
+- Creating workshops, events & hands-on tech experiences  
 
-$ projects.ls
-🤖 AI Mock Interview Agent — Simulates HR + Technical rounds
-⚛️ Quantum Algorithms Notebook — Gates, circuits, and visualizers
-🧪 TDA Research Repo — Experiments with persistent homology (Deakin Internship)
-🛠 MSC Innovation Lab — Student-run R&D in AI, QC, IoT, Robotics
-⚙️ TheStudStop — Full-stack educational platform (React/Node)
+---
 
+## 🔥 Fun Stats (because why not?)
 
-$ fun_facts.sh
-- 80% debugging, 20% staring at the terminal.
-- “It works on my machine” believer.
-- Thinks in Python, dreams in qubits.
-- Building AI agents because doing tasks manually is *so 2020*.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the_jayanthoffl&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
-$ contact --all
-<p align="left"> <a href="https://github.com/the_jayanthoffl"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-171515%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/> </a> <a href="https://www.linkedin.com/in/jayanth-ramakrishnan/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jayanthramakrishnan01@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the_jayanthoffl&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the_jayanthoffl&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-<p align="center"> <code>terminal@jayanth:~$ exit</code> </p>
+---
+
+## 🧩 Random Developer Things I Say
+> “It worked yesterday.”  
+> “Let me just print this one variable.”  
+> “Why is this API unauthorized again?”  
+> “Quantum computing is easy” — *a lie I tell myself.*  
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://github.com/the_jayanthoffl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jayanth-ramakrishnan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jayanthramakrishnan01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting! Drop a ⭐ if you liked something here!</p>
