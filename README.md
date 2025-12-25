@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Jayanth Ramakrishnan 👋</h1>
-  <h3>Quantum Machine Learning Researcher | MSC Lead | Full Stack Developer</h3>
+  <h3>Quantum Machine Learning Researcher | MSC Lead | Agentic Explorer</h3>
   
   <br />
 
